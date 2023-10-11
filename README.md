@@ -1,5 +1,6 @@
 # CCE_Assignment_3
 The MLOps Lifecycle
+Mausumi Ratha
 Introduction
 
 In recent years, machine learning (ML) and artificial intelligence (AI) have gained immense popularity and significance in various industries. However, the success of ML projects relies not only on the quality of algorithms and models but also on the ability to deploy, manage, and maintain them effectively. This is where MLOps, a combination of Machine Learning and DevOps, plays a crucial role. In this essay, we will explore the MLOps lifecycle, emphasizing its integration with DevOps, DataOps, and ModelOps to ensure efficient and reliable ML model deployment and management.
